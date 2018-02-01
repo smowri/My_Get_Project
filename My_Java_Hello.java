@@ -18,7 +18,7 @@ System.out.println("Hello world");
 		{
 			System.out.println("Dead code");
 		}
-		System.out.println("Dead code");
+		
 	}
 
 }
